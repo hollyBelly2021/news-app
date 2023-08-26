@@ -1,0 +1,50 @@
+@import "https://fonts.googleapis.com/css2?family=Athiti:wght@200;300&display=swap";
+body {
+  background-color: #fff;
+  margin: 0;
+}
+
+.name {
+  text-align: center;
+  justify-content: center;
+  margin: 30px;
+}
+
+.main-container {
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  display: flex;
+}
+
+.section-container {
+  background-color: #fff;
+  border: 1px solid #0000003b;
+  border-radius: 10px;
+  width: 200px;
+  padding: 20px;
+}
+
+.section-container:hover {
+  cursor: pointer;
+  background-color: #80808022;
+  transition: top .5s;
+}
+
+.image-style {
+  width: 500px;
+}
+
+.title {
+  margin: 0;
+  font-family: Times New Roman, Times, serif;
+  font-size: 30px;
+}
+
+.headline {
+  font-family: Athiti, sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+/*# sourceMappingURL=index.3a01df49.css.map */
